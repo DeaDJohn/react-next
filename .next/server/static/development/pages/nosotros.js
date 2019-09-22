@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -107,7 +107,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Navegacion__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Navegacion */ "./components/Navegacion.js");
-var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react-next\\components\\Master.js";
+var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react\\bitcoin-app\\components\\Master.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -179,7 +179,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react-next\\components\\Navegacion.js";
+var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react\\bitcoin-app\\components\\Navegacion.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1985,7 +1985,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Navegacion__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Navegacion */ "./components/Navegacion.js");
 /* harmony import */ var _components_Master__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Master */ "./components/Master.js");
-var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react-next\\pages\\nosotros.js";
+var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react\\bitcoin-app\\pages\\nosotros.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2053,14 +2053,14 @@ const Index = () => __jsx(_components_Master__WEBPACK_IMPORTED_MODULE_2__["defau
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!*********************************!*\
   !*** multi ./pages/nosotros.js ***!
   \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Jota\Desktop\react-next\pages\nosotros.js */"./pages/nosotros.js");
+module.exports = __webpack_require__(/*! C:\Users\Jota\Desktop\react\bitcoin-app\pages\nosotros.js */"./pages/nosotros.js");
 
 
 /***/ }),

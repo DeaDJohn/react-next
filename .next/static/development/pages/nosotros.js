@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next/dist/next-server/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Navegacion__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Navegacion */ "./components/Navegacion.js");
-var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react-next\\components\\Master.js";
+var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react\\bitcoin-app\\components\\Master.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -88,7 +88,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react-next\\components\\Navegacion.js";
+var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react\\bitcoin-app\\components\\Navegacion.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -4932,10 +4932,10 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact-next%5Cpages%5Cnosotros.js!./":
-/*!*************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact-next%5Cpages%5Cnosotros.js ***!
-  \*************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact%5Cbitcoin-app%5Cpages%5Cnosotros.js!./":
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact%5Cbitcoin-app%5Cpages%5Cnosotros.js ***!
+  \**********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10879,7 +10879,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Navegacion__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Navegacion */ "./components/Navegacion.js");
 /* harmony import */ var _components_Master__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Master */ "./components/Master.js");
-var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react-next\\pages\\nosotros.js";
+var _jsxFileName = "C:\\Users\\Jota\\Desktop\\react\\bitcoin-app\\pages\\nosotros.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -10949,14 +10949,14 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 0:
-/*!*****************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact-next%5Cpages%5Cnosotros.js ***!
-  \*****************************************************************************************************************************************/
+/***/ 1:
+/*!**************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact%5Cbitcoin-app%5Cpages%5Cnosotros.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact-next%5Cpages%5Cnosotros.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact-next%5Cpages%5Cnosotros.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact%5Cbitcoin-app%5Cpages%5Cnosotros.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnosotros&absolutePagePath=C%3A%5CUsers%5CJota%5CDesktop%5Creact%5Cbitcoin-app%5Cpages%5Cnosotros.js!./");
 
 
 /***/ }),
@@ -10972,5 +10972,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=nosotros.js.map
