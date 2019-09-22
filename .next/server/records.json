@@ -1,0 +1,40 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/index.js": 0,
+      "multi private-next-pages/nosotros.js": 1,
+      "multi next/dist/pages/_app": 2,
+      "multi next/dist/pages/_error": 3,
+      "multi next/dist/pages/_document": 4
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\_c8vtgW3X2vbi_Zk5uiRS\\pages\\_app.js": 0,
+      "static\\_c8vtgW3X2vbi_Zk5uiRS\\pages\\_document.js": 1,
+      "static\\_c8vtgW3X2vbi_Zk5uiRS\\pages\\_error.js": 2,
+      "static\\_c8vtgW3X2vbi_Zk5uiRS\\pages\\index.js": 3,
+      "static\\_c8vtgW3X2vbi_Zk5uiRS\\pages\\nosotros.js": 4,
+      "static\\g1hIU3GBpH-zjL_S5Zegm\\pages\\_app.js": 5,
+      "static\\g1hIU3GBpH-zjL_S5Zegm\\pages\\_document.js": 6,
+      "static\\g1hIU3GBpH-zjL_S5Zegm\\pages\\_error.js": 7,
+      "static\\g1hIU3GBpH-zjL_S5Zegm\\pages\\index.js": 8,
+      "static\\g1hIU3GBpH-zjL_S5Zegm\\pages\\nosotros.js": 9
+    },
+    "bySource": {},
+    "usedIds": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
